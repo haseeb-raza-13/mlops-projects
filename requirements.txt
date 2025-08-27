@@ -7,3 +7,4 @@ seaborn
 plotly
 scikit-learn
 mlflow
+dvc
